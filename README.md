@@ -2,4 +2,4 @@
 
 ## DEMO GIF OF THE PROJECT
 
-![Alt Text](https://im.ezgif.com/tmp/ezgif-1-a4616dd1d9b8.gif)
+![Alt Text](https://raw.githubusercontent.com/dharshini78/Calculator/master/screen-recorder-fri-oct-01-2021%20(1).gif)
